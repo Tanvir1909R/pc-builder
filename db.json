@@ -1,0 +1,592 @@
+{
+  "products": [
+    {
+      "id": "4545g456t34dt25635",
+      "name": "Intel Core i3-12100 12th Gen",
+      "price": 24000,
+      "image": "/products/intel.jpg",
+      "category": "cpu",
+      "status": "in stock",
+      "description": "The Intel Core i3-12100 12th Gen Budget Desktop PC is a well-built device that appeals to customers looking for a system that strikes a compromise between price and functionality. The Intel Core i3-12100, a 12th-generation Alder Lake CPU that highlights Intel's cutting-edge hybrid architecture, is the central component of this configuration. With a base clock of 3.3 GHz and a maximum turbo boost capability of 4.3 GHz, this quad-core, 8-thread CPU is a good performer for productivity work, light gaming, and general computing. The MSI PRO H610M-E DDR4 mATX Motherboard, which supports the newest 12th Gen CPUs on an LGA 1700 socket and offers necessary capabilities in a small microATX form size, offers a dependable basis for the construction. A red heat spreader adds style to the construction and helps with heat dissipation. An 8GB stick of Team Elite Plus Red 3200MHz DDR4 RAM guarantees seamless multitasking and effective access to commonly used data. A Western Digital Green SN350 240GB M.2 NVMe Gen3 SSD may meet storage demands. With read speeds of up to 2400 MB/s, it keeps the system efficient and delivers quick load times for the operating system and apps. The Golden Field Q25B Mid Tower ATX Case, which houses these parts, not only accommodates a range of motherboard sizes but also includes a pre-installed power supply, saving you money and trouble. The case's elegant design contains many fan mounts to keep the system cool even under load and a side panel glass that displays the interior parts. This desktop PC is a great option for various customers, from professionals to students, who want a powerful computer without going over budget. It is proof that affordable builds can still provide a satisfactory user experience.",
+      "features": [
+        "Model: Intel Core i3-12100 12th Gen Budget Desktop PC",
+        "Intel Core i3-12100 12th Gen Alder Lake Processor (Tray)",
+        "MSI PRO H610M-E DDR4 mATX Motherboard",
+        "Team Elite Plus Red 8GB 3200MHz DDR4 U-DIMM Desktop RAM",
+        "Western Digital Green SN350 240GB M.2 NVMe Gen3 SSD"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "34525354534534v3cvx",
+      "name": "AMD Ryzen 5 5600G",
+      "price": 29000,
+      "image": "/products/ryzen.jpg",
+      "category": "cpu",
+      "status": "in stock",
+      "description": "The AMD Ryzen 5 5600G Budget Gaming Desktop PC is a powerful combination of performance and value. This system provides a smooth gaming experience thanks to the powerful AMD Ryzen 5 5600G Processor with Radeon Graphics (Chinese Edition). The MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard provides a stable foundation for crucial gaming capabilities. The Team T-Force VULCAN TUF Gaming Alliance 8GB 3200MHz DDR4 Desktop RAM improves multitasking, while the Western Digital Green SN350 240GB M.2 NVMe Gen3 SSD provides quick boot times.  This desktop, housed in the PC Power X2601 BK Spider Web Mesh mATX Casing With Power Supply, not only has a sleek appearance but also ARGB lights for a visually appealing setup. This AMD Ryzen 5 5600G machine is ideal for budget-conscious gamers, striking a great mix between cutting-edge technology and cost-effectiveness, offering an immersive gaming experience without sacrifice.",
+      "features": [
+        "Model: Ryzen 5 5600G Desktop PC",
+        "AMD Ryzen 5 5600G Processor with Radeon Graphics (Chinese Edition)",
+        "MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard",
+        "Team T-Force VULCAN TUF Gaming Alliance 8GB 3200MHz DDR4 Desktop RAM",
+        "Western Digital Green SN350 240GB M.2 NVMe Gen3 SSD"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "gwvy654w6326t36t2",
+      "name": "MSI PRO H610M-E DDR4 mATX Motherboard",
+      "price": 9630,
+      "image": "/products/msi.jpg",
+      "category": "motherboard",
+      "status": "in stock",
+      "description": "The MSI PRO H610M-E DDR4 12th Gen, 13th Gen & 14th Gen mATX Motherboard is a high-performance motherboard for the LGA 1700 socket that supports 12th/13th Gen Intel Core, Pentium Gold, and Celeron CPUs. This motherboard includes DDR4 memory compatibility, which can run at up to 3200(MAX) MHz. It also has Core Boost technology, a premium layout, and a digital power architecture, which improves performance and enables additional cores. Memory Boost technology, which produces pure data signals, ensures the highest performance, stability, and compatibility with the MSI PRO H610M-E DDR4 12th Gen & 13th Gen mATX Motherboard. It has PCIe 4.0, which allows for extremely rapid data transfers. Audio Boost technology provides studio-level sound quality to your ears, making it a perfect motherboard for gamers and music aficionados. The MSI PRO H610M-E DDR4 12th Gen & 13th Gen mATX Motherboard also has Steel Armor, which protects VGA cards from bending and EMI while improving performance, stability, and robustness. This motherboard is a good choice for individuals looking for a high-performance motherboard that can handle demanding programs and games, thanks to its sophisticated features and superb design.",
+      "features": [
+        "Model: PRO H610M-E DDR4",
+        "Supported CPU: 14th/13th/12th Gen Intel Processors (LGA1700)",
+        "Supported RAM: 2x DDR4, Max 64GB",
+        "Graphics Output: 1x HDMI, 1x VGA",
+        "Features: 1x M.2 slot, Realtek RTL8111H Gigabit LAN"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "3v6tc7j9c23cv2",
+      "name": "BenQ GW2780 27 inch Full HD Eye-care IPS Monitor",
+      "price": 26950,
+      "image": "/products/benQ.jpg",
+      "category": "monitor",
+      "status": "in stock",
+      "description": "BenQ GW2780 27\" frameless monitor combines ultra slim bezels with hidden cable management. Complementing BenQ exclusive Eye-Care Technology with Low Blue Light and Flicker-Free performance for extended viewing comfort, industry-leading Brightness Intelligence Technology delivers exquisite details in any ambient lighting environment. With the ideal combination of LED and IPS technologies, GW2780 delivers a new level of visual enjoyment with truly authentic colors, deeper blacks, higher contrast, and sharper details. On the other hand; it has an FHD (1920x1080) resolution. Expansive 178° horizontal and vertical viewing angles ensure uniform viewing for multiple people in the room. BenQ Eye-Care Monitors are certified by TUV Rheinland, a global leader in technical and safety certification, for Flicker-Free, and Low Blue Light performance truly benefitting human vision. The first brand of Eye-Care monitors in the world, BenQ is committed to safeguarding vision health at the forefront of viewing comfort and enjoyment with this permanent addition to its monitor product line. It also has a variety of connectivity like HDMI & Display port. The BenQ GW2780 is a sleek and stylish IPS monitor that's perfect for everyday tasks such as gaming or productivity. This model isn't a high-refresh or color-accurate variant, but its combination of reasonable specifications and a price that doesn't burn holes in pockets make it a popular choice. The BenQ GW2780 comes from a company with fantastic variants for every application or use, and we're curious to see how this budget monitor stacks up.",
+      "features": [
+        "Model: GW2780",
+        "Resolution: FHD (1920x1080)",
+        "Display: IPS, 60Hz, 5ms",
+        "Ports: HDMI, DP, Audio Out",
+        "Features: Flicker Free, Low Blue Light"
+      ],
+      "rating": 3,
+      "reviews": []
+    },
+    {
+      "id": "b78RCVEWT43C",
+      "name": "AMD Ryzen 5 5600 Processor",
+      "price": 13800,
+      "image": "/products/ryzen.jpg",
+      "category": "cpu",
+      "status": "in stock",
+      "description": "AMD Ryzen 5 5600 Processor has 6 processor cores, 12 threads, and an astonishingly efficient 45-65W TDP. This processor stands with 3.5GHz Base Clock, 4.4GHz Max Boost Clock, 3MB L2 Cache, 32 MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. The AMD Ryzen 5 5600 Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology which is a fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. AMD StoreMI technology is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness. Whatever your storage acceleration needs, AMD StoreMI technology automatically pairs your most-used files with an SSD cache for peak performance. MD StoreMI technology can get files running at SSD-like speeds. Simply add an SSD to your system and let StoreMI do the rest. It also has AMD \"Zen 3\" Core Architecture with the fastest cores in the world for PC gamers. The \"Zen 3\" architecture represents the most comprehensive design overhaul of the \"Zen\" era. Over 20 major changes include wider and more flexible execution resources; significantly more load/store bandwidth to feed execution; and a streamlined front-end to get more threads in flight and do it faster. The \"Zen 3\" architecture can extract an average of 19% additional performance from every MHz of frequency relative to the previous generation2. This is a historically large generational improvement in IPC and a major player in this architecture's ability to deliver unmatched single-core performance. The \"Zen 3\" architecture transitions to a new \"unified complex\" design that brings 8 cores and 32MB of L3 cache into a single group of resources. This dramatically reduces core-to-core and core-to-cache latencies by making every element of the die a next-door neighbor with minimal communication time. Latency-sensitive tasks like PC gaming especially benefit from this change, as tasks now have direct access to twice as much L3 cache versus the Zen 2. It also features the AMD Ryzen VR-Ready Premium for the best possible VR experience possible. AMD Ryzen 5 5600 Processor offers a 3-Year Warranty.",
+      "features": [
+        "Model: Ryzen 5 5600",
+        "Speed: 3.5GHz up to 4.4GHz",
+        "Cache: L2: 3MB, L3: 32MB; Cores-6 & Threads-12",
+        "Memory Speed: DDR4 Up to 3200MHz",
+        "AMD ZEN 3 Architecture"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "GSDFGBWE5T2563",
+      "name": "AMD Ryzen 5 2600X Processor",
+      "price": 8900,
+      "image": "/products/ryzen.jpg",
+      "category": "cpu",
+      "status": "in stock",
+      "description": "Highest Multiprocessing Performance in Its Class for Serious Gamers and Promising Creators.Higher performance,Incredible technology,Intelligent Ryzenâ„¢ processors just got even smarter.AMD bundles the Wraith Spire cooler with the 2nd Gen Ryzenâ„¢ 5 2600X processor, featuring excellent thermal performance.AMDâ€™s future-proof mainstream computing platform, updated with the new X470 and B450 chipsets.Software that combines the speed of your SSD with the capacity of your hard disk into a single, fast, easy-to-manage drive.With AMD SenseMI technology, Ryzenâ„¢ processors use true machine intelligence to accelerate performance.The Simple and Powerful Overclocking Utility for AMD Ryzen processors. It has 03 Months Warranty (No Warranty for Cooler or FAN).",
+      "features": [
+        "Model: Ryzen 5 2600X",
+        "PCIe 3.0 x16",
+        "CMOS 12nm FinFET",
+        "Total L3 Cache 16MB",
+        "Max Temps 95Â°C"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "JFGHJTYUN5464b344f",
+      "name": "Intel 11th Gen Core i5-11400F Rocket Lake Processor",
+      "price": 15000,
+      "image": "/products/intel.jpg",
+      "category": "cpu",
+      "status": "in stock",
+      "description": "This new 11th gen Rocket Lake microarchitecture is manufactured with the 14nm process that comes with six cores and twelve threads. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 400 and 500 series motherboards. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 400 and 500 series lineup. These Processors also support 64-bit computing on Intel architecture require an Intel x86-64 (64 bit) architecture-enabled BIOS.",
+      "features": [
+        "Model: Core i5-11400F",
+        "Clock Speed: 2.60 GHz Up to 4.40 GHz",
+        "Cache: 12 MB, Socket: LGA 1200",
+        "CPU Cores: 6, CPU Threads: 12",
+        "Max RAM Size: 128 GB"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "gfbhutio8962334r3",
+      "name": "GIGABYTE GA-J1800M-D3P Motherboard with Built In 2.41Ghz DDR3 Celeron Processor",
+      "price": 6200,
+      "image": "/products/gigabyte.jpg",
+      "category": "motherboard",
+      "status": "in stock",
+      "description": "Built-in IntelÂ® Celeronâ„¢ J1800 (2.41 GHz) Dual-Core processor GIGABYTE Ultra Durableâ„¢ Technology Dual channel DDR3/-L UDIMM slot support Audio Noise Guard with High Quality Audio Capacitors All Solid Capacitors with Humidity Protection New Glass Fabric PCB design LAN with high ESD Protection HDMI, D-SUB ports on rear panel GIGABYTE On/Off Charge for USB devices PCIe and PCI interface for wide-range expansion card selections",
+      "features": [
+        "Model: GIGABYTE GA-J1800M-D3P",
+        "Intel Dual-Core Celeron J1800 SoC (2.41 GHz)",
+        "2 x DDR3 DIMM Dual Memory",
+        "1 x PCI Express x16 slot, running at x1",
+        "1 x Trusted Platform Module (TPM) header"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "cw3547gbndftydwqwfw",
+      "name": "ASUS PRIME H610M-K D4 mATX Motherboard",
+      "price": 11900,
+      "image": "/products/asus.jpg",
+      "category": "motherboard",
+      "status": "in stock",
+      "description": "The ASUS PRIME H610M-K D4 supports 14th, 13th, and 12th Gen Intel processors and Intel LGA 1700 socket and Intel Turbo Boost Technology 2.0 and Intel Turbo Boost Max Technology 3.0. This motherboard comes with an Enhanced power solution, six-layer PCB, ProCool socket, military-grade TUF components, and Digi+ VRM for maximum durability. It has a robust power design, comprehensive cooling solutions, and intelligent tuning options. It features 32Gbps M.2 slot, Realtek 1 Gb Ethernet, and USB 3.2 Gen 1 support. Multiple PCB layers optimize heat management for critical components, providing more headroom to push CPUs beyond stock speeds. The motherboard comes with upgraded power delivery and comprehensive cooling options to drive the 12th Gen Intel Core processors, plus support for faster memory and storage, ASUS PRIME H610M-K D4 motherboards are the perfect foundation for your next high-core-count battle rig. The TUF GAMING platform gives you the arsenal you need to build and optimize your dream gaming rig, without unnecessary complexity. the new ASUS PRIME H610M-K D4 motherboards provide a high-performance gaming package with a long list of features ultrafast networking for smoother online gameplay, pristine audio with positional cues for FPS gaming, and onboard RGB lighting that syncs with attached accessories to help you create a personalized gaming atmosphere. The latest ASUS PRIME H610M-K D4 offers 03 years warranty.",
+      "features": [
+        "Model: PRIME H610M-K D4",
+        "Supported CPU: 14th/13th/12th Gen Intel Processors (LGA1700)",
+        "PCH heatsink and Fan Xpert",
+        "32Gbps M.2 slot, Realtek 1 Gb Ethernet",
+        "5X Protection III"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "wervt54769jewqfr",
+      "name": "GIGABYTE B550M AORUS PRO-P Micro-ATX AM4 Motherboard",
+      "price": 18400,
+      "image": "/products/gigabyte.jpg",
+      "category": "motherboard",
+      "status": "in stock",
+      "description": "To fully support the latest 3rd Gen AMD Ryzen processors, B550 AORUS motherboards equip with the ultimate power solution which is power balanced, digital and multiple phases. After countless experiments and testing, GIGABYTE presents the unbeatable B550 AORUS motherboards for enthusiast. No Compromise and never stop to achieve higher.",
+      "features": [
+        "Model: B550M AORUS PRO-P",
+        "Support Ryzen 5000 Series/ 3rd Gen Ryzen & 3rd Gen with Radeon Graphics",
+        "Dual PCIe 4.0/3.0 M.2 with Thermal Guard",
+        "12+2 Phases Digital Twin Power Design",
+        "Ultra Durable PCIe 4.0 Ready x16 Slot"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "nkko9bne64w5e674wk",
+      "name": "GIGABYTE Z690 UD AX DDR5 ATX Motherboard",
+      "price": 15000,
+      "image": "/products/intel.jpg",
+      "category": "motherboard",
+      "status": "in stock",
+      "description": "The GIGABYTE Z690 UD AX ATX Motherboard is featured with Direct 16+1+2 Digital VRM Design with 60A Power Stage and Tantalum Polymer Capacitor, DDR5 XTREME MEMORY Design, Fins-Array III Heatsink, Direct-Touch Heatpipe II, NanoCarbon Baseplate, M.2 Thermal Guard III, AQUANTIA 10GbE LAN. It is supported with an LGA1700 socket: Support for 14th, 13th & 12th Generation Intel Core i9 processors/Intel Core i7 processors/Intel Core i5 processors. It comes with Dual Channel Non-ECC Unbuffered DDR5, 4 DIMMs. It has a DDR5 XTREME MEMORY Design with SMD DIMM and Shielded Memory Routing. Advanced Thermal Solution with NanoCarbon Fins-Array III Heatsink, Direct-Touch Heatpipe II, and NanoCarbon Baseplate. It comes with Intel WIFI6 802.11ax 2T2R & BT5.2 with AERO Antenna. It has a Fast 2.5GbE LAN with Bandwidth Management. It has 3 x Ultra-Fast NVMe PCIe 4.0/3.0 x4 M.2 with Thermal Guards. The SuperSpeed USB 3.2 Gen2x2 TYPE-C delivers up to 20Gb/s transfer speeds. It features RGB FUSION 2.0 with Multi-Zone Addressable LED Light Show Design and supports Addressable LED & RGB LED Strips. The Smart Fan 6 Features Multiple Temperature Sensors, Hybrid Fan Headers with FAN STOP, and Noise Detection. The GIGABYTE Z690 UD AX comes with 3 years of warranty.",
+      "features": [
+        "Model: Z690 UD AX",
+        "Supported CPU: 14th/13th/12th Gen Intel Processors (LGA1700)",
+        "Dual Channel Non-ECC Unbuffered DDR5, 4 DIMMs",
+        "Direct 16+1+2 Digital VRM Design",
+        "Intel WIFI6 802.11ax 2T2R & BT5.2"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "aew74k6bn54wgfrhrewg4",
+      "name": "Gigabyte AORUS RGB 16GB (2X8GB) 3600MHz Desktop RAM without Demo Kit",
+      "price": 16000,
+      "image": "/products/gigabyte-ram.jpg",
+      "category": "ram",
+      "status": "in stock",
+      "description": "In the dark, starless night, the falcon strikes fear into the heart of its prey. Even with minimal visibility, the falcon pinpoints its prey and patiently anticipates the perfect moment to swoop in for the kill. The falcon with its laser-sharp gaze dominates the darkness of night in the same manner that AORUS Core Lighting illuminates the vast AORUS ecosystem. AORUS design principles are inspired by the brand icon, the Falcon. The pattern on the front side of AORUS RGB Memory sticks resembles a falcon diving through the sky. The dynamic features of the AORUS RGB Memory modules represent the falcon's speed, agility, and the falcon's prowess in flight. Moreover, the asymmetric design of the heatsink and placement of the AORUS logo makes it easier and more intuitive for users to slide the sticks correctly into place. The all-new AORUS RGB Memory kit is engineered to be the best and to deliver an absolute performance. The stylish, luxurious design and the glossy finish make it stand out against the competition. The diffused RGB LEDs paired with aluminum heatsinks provide both effective heat dissipation and impressive style at the same time. If you want a memory kit that will take your PC to the next level the AORUS RGB Memory kit is what will make your system shine! The AORUS RGB Memory kit is built on a ten-layer, sophisticatedly engineered PCB that ensures the stability and the high performance of the memory ICs.The heatsink of the AORUS RGB Memory kit is designed to offer the best performance. The high-quality materials offer better heat dissipation, guaranteeing the stability of the memory kit. The light diffuser adds balance and polish to the RGB LED lighting. AORUS RGB Memory supports 12 lighting modes. 5 are new lighting modes only for the AORUS RGB Memory. Color strobe, Cascade, Color Cascade, Droplet, and Color Droplet are the new modes that add unique style to your system. With an integrated intuitive user interface, the RGB Fusion 2.0 provides you a better solution for customizing the lighting effects across all supported devices. From motherboards, graphics cards to peripheral products, you can personalize your gaming rig with your own style and show off your build by sharing the profiles. In addition, the new gaming mode makes the lighting effects interactive with selected games to bring you the most immersive gaming experience.",
+      "features": [
+        "Model: Gigabyte AORUS RGB",
+        "Frequency: 3600MHz",
+        "Operating voltage: 1.35V",
+        "Latency Timings- 18-19-19-30",
+        "RGB Fusion supported"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "hvtrghtj6463",
+      "name": "Gigabyte AORUS RGB 16GB DDR5 6000MHz Desktop RAM",
+      "price": 10000,
+      "image": "/products/gigabyte-ram.jpg",
+      "category": "ram",
+      "status": "in stock",
+      "description": "The Gigabyte AORUS RGB 16GB DDR5 6000MHz RAM adopts a new copper-aluminum composite material heat spreader. The Gigabyte AORUS RGB DDR5 RAM makes sure there are no compromises when overclocking by combining the benefits of aluminum's heat dissipation and copper's heat conduction. Moreover, passive heat spreaders can be improved with NanoCarbon coating for extremely high performance. Their heat spreaders are completely covered in the coating material. Heat dissipates faster in this manner. The Gigabyte AORUS RGB 16GB DDR5 6000MHz RAM peaks over 70°C, and failure could result from high voltage. But the specially designed DDR5 copper-aluminum composite with NanoCarbon heat spreader helps a lot to prevent any possible issues during overclocking; additionally, maintain the temperature below 70°C. The AORUS RGB DDR5 RAM module enhances overclocking performance and profiles while supporting the most recent XMP 3.0 specification. Users can now define and fine-tune their own XMP profiles in addition to applying the pre-tuned profile. They can even save the profiles to the SPD ROM. Take advantage of the AORUS RGB 16GB DDR5 6000MHz RAM module's XPM 3.0 features.",
+      "features": [
+        "MPN: ARS32G60D5R",
+        "Model: AORUS RGB",
+        "Memory: 16GB DDR5",
+        "Bus Speed: 6000MHz",
+        "Latency: 40-40-40-77",
+        "Operating Voltage: 1.1V"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "rereyu56736f3456f4",
+      "name": "Gigabyte AORUS 8GB 3200MHz RGB RAM",
+      "price": 8000,
+      "image": "/products/gigabyte-ram.jpg",
+      "category": "ram",
+      "status": "in stock",
+      "description": "The all new AORUS RGB Memory kit is engineered to be the best and to deliver absolute performance. AORUS design principles are inspired by the brand icon, the Eagle. The pattern on the front side of AORUS RGB Memory sticks resembles an eagle diving through the sky. The dynamic features of the AORUS RGB Memory modules represent the eagleâ€™s speed, agility, and the eagleâ€™s prowess in flight. Moreover, the asymmetric design of the heatsink and placement of the AORUS logo makes it easier and more intuitive for users to slide the sticks correctly into place.",
+      "features": [
+        "Model: AORUS",
+        "Frequency: 3200MHz",
+        "Operating voltage: 1.35V",
+        "Latency Timings- 16-18-18-38",
+        "RGB Fusion supported"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "4vty56bu532xcvy5endtbvz",
+      "name": "Adata XPG SPECTRIX D35G RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
+      "price": 2900,
+      "image": "/products/adata-ram.webp",
+      "category": "ram",
+      "status": "in stock",
+      "description": "The Adata XPG SPECTRIX D35G RGB 8GB DDR4 3200MHz Desktop RAM is an innovative memory module that has been precisely created to meet the complicated needs of keen gamers and PC enthusiasts. With a capacity of 8GB, this DDR4 RAM provides seamless multitasking and optimal performance, making it an excellent choice for consumers who expect unrivaled speed and responsiveness from their desktop PCs. The SPECTRIX D35G stands out due to its U-DIMM form size and fast 3200MHz operation, delivering a dynamic and efficient memory solution for a wide range of computing activities. Its CAS Latencies of 16 and low operating voltage of 1.35V help to excellent efficiency and power management, boosting your system's overall performance. The SPECTRIX D35G features a unique triangle form that not only gives a distinctive touch to your gaming system but also promotes easy installation, especially in smaller chassis where space is at a premium. This design consideration enables compatibility with a variety of construction options while retaining a clean and coherent appearance. What distinguishes the SPECTRIX D35G is its dedication to superior quality and longevity. Rigorous selection and screening methods were used, and the RAM was subjected to demanding reliability and compatibility testing. The result is a sturdy and durable device that meets the highest quality requirements and can resist the rigors of lengthy gaming sessions and resource-intensive applications. The SPECTRIX D35G comes with programmable RGB light effects to add flare to your setup. Enhance your gaming experience by customizing the lighting to your liking, creating a visually appealing and dynamic environment surrounding your system. The SPECTRIX D35G is designed to work flawlessly with the most recent AMD platforms, assuring compatibility and top performance for consumers who utilize AMD CPUs and motherboards. For enthusiasts looking to test the limits of their system, the RAM supports Intel XMP 2.0, which provides an easy-to-use overclocking method to unleash the module's full potential. The Adata SPECTRIX D35G RGB 8GB DDR4 3200MHz Desktop RAM is a complete solution for consumers that want high capacity, efficient performance, and a pleasing design. Whether you are a serious gamer or a power user, this RAM module is a testament to quality, longevity, and innovation in desktop memory solutions.",
+      "features": [
+        "Model: XPG SPECTRIX D35G RGB",
+        "Capacity: 8GB",
+        "Type- DDR4, Speed: 3200MHz",
+        "Form Factor: U-DIMM",
+        "CAS Latencies: 16, Operating voltage: 1.35V"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "vt5b57b54buversdcgh",
+      "name": "Adata XPG LANCER 16GB DDR5 6000MHz Gaming Desktop RAM",
+      "price": 7999,
+      "image": "/products/adata-ram.webp",
+      "category": "ram",
+      "status": "in stock",
+      "description": "The Adata XPG LANCER 16GB Gaming RAM heralds the start of the DDR5 era in gaming memory. It has a frequency range of up to 6000 MT/s. This gaming RAM has an integrated Power Management IC (PMIC) that improves power supply stability. LANCER is also more power-efficient than DDR4 because of its lower operating voltage. The XPG LANCER has an on-die error-correcting code (ECC), which may repair mistakes in real-time to improve stability and dependability. It was built with high-quality ICs and PCBs to assure uncompromised performance and stable overclocking, making it suitable for discriminating gamers and overclockers. It supports Intel XMP 3.0, allowing for easy overclocking without the need to fiddle with BIOS settings. There is no need to adjust and fine-tune overclocking parameters regularly. The Adata XPG LANCER RAM is covered by a Lifetime Warranty.",
+      "features": [
+        "Model: XPG LANCER DDR5",
+        "High-quality materials for stable overclocking",
+        "Supports Intel XMP 3.0 for easy overclocking",
+        "PMIC for power supply stability",
+        "On-die ECC error correction"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": " yby445ywvbrb568imi78om8",
+      "name": "Gigabyte P450B 450W 80 Plus Bronze Certified Power Supply",
+      "price": 3990,
+      "image": "/products/gigabyte-power.jpg",
+      "category": "power-supply",
+      "status": "in stock",
+      "description": "80 Plus Bronze certified ensures to deliver 85% efficiency at 50% load. The better power efficiency leads to less power waste, less heat and less fan noise. P450B provides the best solution for the system builds. The flat cable reduces the clutter and improves the airflow in the case. 120mm Silent Hydraulic Bearing fan optimizes the noise reduction and the thermal performance. The fan speed is adjusted according to the automatic power detection. The Hydraulic Bearing fan provides longer and more stable life time. Single +12V rail provides the best power output, stability and compatibility for the hardware. It provides the easiest way to install the power cable. And it is the best design for overclocking. In order to make sure the entire computer system to operate stably under any conditions, we not only added protection designs such as OCP, OTP, OVP, OPP, UVP and SCP, but also ensured the stable operation of your system through the safety certification of various countries. It has a 03-year warranty.",
+      "features": [
+        "MPN: GP-P450B/PSU 450W/80+B",
+        "Model: Gigabyte P450B",
+        "OVP/OPP/SCP/UVP/OCP/OTP protection",
+        "80 PLUS Bronze certified",
+        "Reliable flat cable",
+        "Single +12V rail"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "h46v",
+      "name": "Gigabyte P550B 550W 80 Plus Bronze Certified Power Supply",
+      "price": 4800,
+      "image": "/products/gigabyte-power.jpg",
+      "category": "power-supply",
+      "status": "in stock",
+      "description": "80 Plus Bronze certified ensures to deliver 85% efficiency at 50% load. The better power efficiency leads to less power waste, less heat and less fan noise. P550B provides the best solution for the system builds. The flat cable reduces the clutter and improves the airflow in the case. 120mm Silent Hydraulic Bearing fan optimizes the noise reduction and the thermal performance. The fan speed is adjusted according to the automatic power detection. The Hydraulic Bearing fan provides longer and more stable life time. Single +12V rail provides the best power output, stability and compatibility for the hardware. It provides the easiest way to install the power cable. And it is the best design for overclocking. In order to make sure the entire computer system to operate stably under any conditions, we not only added protection designs such as OCP, OTP, OVP, OPP, UVP and SCP, but also ensured the stable operation of your system through the safety certification of various countries. It has a 03-year warranty.",
+      "features": [
+        "MPN: GP-P550B/PSU 550W/80+B",
+        "Model: Gigabyte P550B",
+        "OVP/OPP/SCP/UVP/OCP/OTP protection",
+        "80 PLUS Bronze certified",
+        "Reliable flat cable",
+        "Single +12V rail"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": " vy58n56m",
+      "name": "GIGABYTE UD1000GM 1000W Ultra Durable 80+ Gold Full Modular Power Supply",
+      "price": 16500,
+      "image": "/products/gigabyte-power.jpg",
+      "category": "power-supply",
+      "status": "in stock",
+      "description": "The GIGABYTE UD1000GM 1000W Power supply features a wide range of high-quality materials and designs. Ultra Durable has high-quality Japanese primary capacitors, an improved thermal solution, a 120mm smart hydraulic bearing (HYB) fan, and six circuit safety designs. It provides users with a high-quality, reliable power source that may be utilized for an extended period. The primary capacitors are made of high-quality Japanese capacitors to ensure efficient performance and long-term durability. In comparison to the standard thermal solution, we increased the heatsink size by 200% or more and optimized the airflow. The heat dissipation performance is improved by more than 10%, extending the component's service life. When the system is idle or under a low load (less than 20% load), the fan speed is automatically regulated and ceases. The hydraulic bearing fan has a longer and more reliable life cycle. The GIGABYTE UD1000GM 1000W Ultra Durable 80+ Gold Full Modular Power Supply comes with a 10-Year Warranty.",
+      "features": [
+        "MPN: GP-UD1000GM/PSU",
+        "Model: UD1000GM 1000W",
+        "Modular: Fully Modular",
+        "Power (W): 1000W",
+        "Certifications: 80 PLUS Gold",
+        "Fan Type: 120mm Hydraulic Bearing(HYB)fan"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "vt2353464bcxssar",
+      "name": "Redragon RGPS GC-PS001 500W 80 Plus Bronze Non-Modular Power Supply",
+      "price": 15000,
+      "image": "/products/redragon-power.jpg",
+      "category": "power-supply",
+      "status": "Out of stock",
+      "description": "Redragon power supplies provide the ideal balance of price and performance. Redragon GC-PS001 500W 80 Plus Bronze non-modular power supply is another fine example of this. This 500W 80 Plus Bronze non-modular power supply switching power supply with PCI-Express Power Connectors. It also supports SLI and Cross-fire Systems. It has a Single plus 12V output rail which offers a maximum compatibility for demand.",
+      "features": [
+        "Model: GC-PS001",
+        "Stable Power Supply",
+        "80Plus Bronze certification",
+        "140mm diameter fan",
+        "Over Voltage Protection"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "b45wy5b56i7rev",
+      "name": "Redragon RGPS GC-PS002 600W 80 Plus Bronze Non-Modular Power Supply",
+      "price": 7000,
+      "image": "/products/redragon-power.jpg",
+      "category": "power-supply",
+      "status": "Out of stock",
+      "description": "Redragon GC-PS002 600W Non-modular power supply has a 80 PLUS Bronze Certification. This ensures maximum energy efficiency and minimal heat production.The energy Efficiency is  around 85% and the typical input voltage is 100V to 240V. The Frequency Range is 47Hz to 63Hz with 10A at 100VAC and 10A at 240VAC Input Current. The load Range supported is 3.3V at 15Amp, plus 5V at 22Amp plus 12V at  50A; minus 12V at 0.3Amp and 5VSB at 2.5A with one plus 12V Rails. This power supply also comes with built in comprehensive protection functions like Over Voltage Protection(OVP), Under Voltage Protection (UVP), Short Circuit Protection(SCP) and Over Load Protection(OLP). With a 140mm ultra quite cooling fan; The fan ensures enhanced airflow. With premium curcuit and Japan-made main capacitors, It has a lasting durable build. This capacitors also has a longer lifespan than regular electrolytic capacitors. it is a non-modular PSU with an easy installation and cable management Option with reduce clutter. It also has a Low-profile nylon sleeve cables for professional cable management build.",
+      "features": [
+        "Model: GC-PS002",
+        "Stable Power Supply",
+        "80Plus Bronze certification",
+        "140mm diameter fan",
+        "Over Voltage Protection"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "023ctetyg6rs",
+      "name": "Seagate Skyhawk Lite 2TB 3.5\" Surveillance HDD",
+      "price": 5600,
+      "image": "/products/seagate-storage.jpg",
+      "category": "storage-device",
+      "status": "in stock",
+      "description": "Seagate SkyHawk 2TB HDD is 3.5 inch HDD interface with SATA 6GB/s and 64 Cache (MB). Image Perfect firmware supports 24Ã—7 surveillance-optimized workloads tuned to record about 90% of the time and play back video footage the remaining 10%, and supports more cameras recording at higher resolutions than traditional drives. Lower power consumption means a reduction in heat emissions, which improves reliability in surveillance solutions. Tarnish-resistant components help protect drive from environmental elements, increasing field reliability. Best-Fit Applications are Network Video Recorders (NVR), Embedded Surveillance DVRs (SDVR), Hybrid Surveillance DVRs, and Surveillance DVRs. Workload rating of 180TB/year allows SkyHawk to perform reliably in write-intensive surveillance system. It implies 3x the workload rating of a desktop-class drive. ATA streaming support sustains recordings from up to 64 HD cameras for smooth, uninterrupted footage. NVR-ready design allows drives to maintain performance in RAID and multi-drive systems, giving customers the flexibility to grow with the booming NVR market and scale their systems when more storage is needed.",
+      "features": [
+        "MPN: ST2000VX007/ ST2000VX016",
+        "Model: Skyhawk Lite 2TB",
+        "Capacity: 2TB",
+        "Low activity power",
+        "Support for S.M.A.R.T",
+        "Low-RPM spindle speed"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "b567eg234cdfvjb",
+      "name": "Seagate IronWolf Pro 8TB 3.5 Inch SATA 7200RPM NAS Hard Drive",
+      "price": 39000,
+      "image": "/products/seagate-storage.jpg",
+      "category": "storage-device",
+      "status": "in stock",
+      "description": "The Seagate IronWolf Pro 8TB 3.5 Inch SATA 7200RPM NAS Hard Drive is Optimized for NAS with AgileArray. AgileArray enables dual-plane balancing and RAID optimization in multi-bay environments, with the most advanced power management possible. Actively protect your NAS with IronWolf Health Management focusing on prevention, intervention, and recovery. High performance means no lag time or downtime for users during workload traffic for the NAS. Seagate leads the competition with the highest-performing NAS drive portfolio. The Seagate IronWolf Pro 8TB HDD has a Seagate Rescue Data Recovery system. IronWolf Pro comes with extra peace of mind for any mechanical, accidental, or natural disaster. With a 90% success rate of in-house recovery, Seagate has your back with a 5-year included Rescue Data Recovery plan. First in its class of drives to include RV sensors to maintain high performance in multi-drive NAS enclosures. More capacity options mean more choices that will fit within the budget. Seagate provides a scalable solution for any NAS use-case scenario. IronWolf provides a workload rate of 300TB/year. Multiple users can confidently upload and download data to the NAS server, knowing IronWolf can handle the workload, whether you are a creative professional or a small business. Access data on your NAS any time, remotely or on-site.",
+      "features": [
+        "MPN: ST8000NT001",
+        "Model: IronWolf Pro",
+        "Commercial and enterprise network-attached storage (NAS)",
+        "Virtual storage",
+        "On-premise private cloud",
+        "Backup, archiving & disaster recovery"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "t rhrthrtshwfctc3t45yv",
+      "name": "Seagate IronWolf 4TB 5400RPM SATA NAS HDD",
+      "price": 17500,
+      "image": "/products/seagate-storage.jpg",
+      "category": "storage-device",
+      "status": "in stock",
+      "description": "The Seagate IronWolf 4TB 5400RPM SATA NAS HDD is a large-capacity storage option for network-attached storage (NAS) systems. With 4TB of storage space, this hard drive can hold a significant amount of data, including enormous media files, documents, and more. The Seagate IronWolf 4TB 5400RPM SATA NAS HDD has a SATA 6Gb/s interface, which delivers a fast and stable connection to your NAS system. This interface enables fast and effective data transfer, allowing you to access your files and information with little to no wait. The Seagate IronWolf 4TB 5400 RPM SATA NAS HDD provides smooth and efficient performance with a rotational speed of 5400 RPM. Because of the drive's rapid spin rate, access times are reduced, ensuring that your data is promptly and easily available anytime you need it. The Seagate IronWolf 4TB 5400RPM SATA NAS HDD has an amazing capacity and performance, with a transfer rate of 202MB/s. This means you can swiftly and simply transmit huge files, whether you're backing up your data or sharing it with others. This Seagate IronWolf 4TB 5400RPM SATA NAS HDD is a dependable and high-performance storage option suitable for a wide range of applications. Whether you are a home user or a business professional, this hard disk has the speed, capacity, and performance you want.",
+      "features": [
+        "MPN: ST4000VN006",
+        "Model: Seagate IronWolf",
+        "Capacity: 4TB Storage",
+        "Interface: SATA 6Gb/s",
+        "RPM: 5400 RPM",
+        "Transfer Rate: 202MB/s"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "67i7nrbvu345cdyh",
+      "name": "Toshiba P300 1TB Desktop PC Internal Hard Drive",
+      "price": 5600,
+      "image": "/products/tosiba-storage.jpg",
+      "category": "storage-device",
+      "status": "in stock",
+      "description": "Toshiba P300 Desktop PC Internal Hard Drive comes with 1TB Storage capacity, 3.5 Inch Form Factor, SATA 6Gb/s Interface and 7200 RPM. This HDD is built-in shock sensors and ramp loading technology. It is designed for everyday desktop computing. This HDD id featured with 4.17ms Seek Time with 64MB Buffer. In this HDD, Advanced Format technology helps to deliver drive efficiency and reliability. This latest Toshiba P300 Internal Hard Drive has 2 Years of warranty.",
+      "features": [
+        "MPN: HDWD110UZSVA",
+        "Model: P300",
+        "Storage: 1TB; RPM: 7200 rpm",
+        "Seek Time: 4.17ms, Buffer: 64MB",
+        "Form Factor: 3.5 Inch",
+        "Interface: SATA 6Gb/s"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "fjuyk9o806m7nib34f4re",
+      "name": "Toshiba S300 Pro 10TB 7200rpm 3.5\" Surveillance Hard Drive",
+      "price": 31500,
+      "image": "/products/tosiba-storage.jpg",
+      "category": "storage-device",
+      "status": "in stock",
+      "description": "The Toshiba S300 Pro 10TB 7200rpm 3.5 Surveillance Hard Drive has been designed to satisfy your special needs and is constructed for 24/7 reliability and performance. The S300 Pro has been designed and tested to support up to 64 excessive decision cameras, allowing bendy scalability for your protection camera structures. This HDD is compatible with DVR, NVR, video servers, and video control systems for around-the-clock security. The Toshiba S300 Pro 10TB has a 256 MB buffer and excessive transfer charges meet the needs of surveillance facts from higher-decision digital camera streams. Improved real-time power performance is achieved via Toshiba's Dynamic Cache Technology optimizing examine and write cycle cache allocation thru an on-board cache algorithm and buffer control. Regular difficult disk drives without RV sensors can affect the performance of a multi-bay device with the aid of generating 'knock-on' vibration. The S300 Pro guarantees high reliability with the aid of minimizing vibration effects via its advanced control and sensing technology. Multiple sensors detect the slightest surprise and built-in RV sensors also compensate for rotational vibration - removing the possibility of 'knock-on' vibration in multi-bay surveillance systems. The high-endurance, excessive-overall performance components of the S300 Pro withstand harsh environments for advanced reliability. High-temperature environments trigger optimized are looking for velocity to support lower power consumption at the same time as automatically lowering noise and vibration emissions. Up to one million hour MTTF (Mean time to failure) and 180 TB per year workload rating offer peace of mind when working safety digicam structures. The Toshiba S300 Pro is designed for high capability and notable overall performance, you can be sure that Toshiba’s wealth of experience in hard drives is at work for your garage system. The Toshiba S300 Pro HDD comes with a 3-year warranty.",
+      "features": [
+        "MPN: HDWT31AUZSVA",
+        "Model: S300 Pro",
+        "Rotational speed: 7,200 rpm",
+        "Data transfer speed: 248 MB/s Typ",
+        "Buffer size: 256 MB",
+        "Cameras supported: up to 64"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "rhbrjeuerwyyveywexsac",
+      "name": "BenQ GW2780T 27\" Eye-care FHD IPS Monitor",
+      "price": 29400,
+      "image": "/products/benQ.jpg",
+      "category": "monitor",
+      "status": "in stock",
+      "description": "BenQ GW2780T 27\" frameless monitor combines ultra slim bezels with hidden cable management. Complementing BenQ exclusive Eye-Care Technology with Low Blue Light and Flicker-Free performance for extended viewing comfort, industry-leading Brightness Intelligence Technology delivers exquisite details in any ambient lighting environment. With the ideal combination of LED and IPS technologies, GW2780T delivers a new level of visual enjoyment with truly authentic colors, deeper blacks, higher contrast, and sharper details. On the other hand; it has an FHD (1920x1080) resolution. Expansive 178Â° horizontal and vertical viewing angles ensure uniform viewing for multiple people in the room. BenQ Eye-Care Monitors are certified by TUV Rheinland, a global leader in technical and safety certification, for Flicker-Free, and Low Blue Light performance truly benefitting human vision. It also has a variety of connectivity like HDMI & Display port. The BenQ GW2780T is a sleek and stylish IPS monitor that is perfect for everyday tasks such as gaming or productivity. This model isnâ€™t a high-refresh or color-accurate variant, but its combination of reasonable specifications and a price that doesnâ€™t burn holes in pockets make it a popular choice. The BenQ GW2780T comes from a company with fantastic variants for every application or use, and we are curious to see how this budget monitor stacks up. This Powerful & extremely durable monitor comes with 3 years of warranty facility.",
+      "features": [
+        "Model: GW2780T",
+        "Resolution: FHD (1920x1080)",
+        "Display: IPS, 60Hz, 5ms",
+        "Ports: 1x HDMI, 1x DP, 1x D-Sub, Audio Jack, D-Sub",
+        "Features: Flicker Free, Low Blue Light"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "76ij567gfr45td4w556y5u",
+      "name": "BenQ MOBIUZ EX240 23.8\" FHD 165Hz 1ms IPS Gaming Monitor",
+      "price": 15000,
+      "image": "/products/benQ.jpg",
+      "category": "monitor",
+      "status": "in stock",
+      "description": "The BenQ MOBIUZ EX240 23.8\" Gaming Monitor has blazing 1ms (Moving Picture Response Time), 2ms GTG and  a 165Hz refresh rate. The Monitor comes with IPS wide-angle viewing and shows stunning color from any angle. Make the most of your latest X-Box Series X & S and PS5 console games. EX240 also has the features you dream of. This gaming display features amazing BenQ-exclusive technology. HDRi improves the color, contrast, and detail of photographs. Rich music and nuanced aural signals surround you with true sound audio. A monitor that's ready for any journey can be had by adding user-inspired, premiere features.",
+      "features": [
+        "Model: MOBIUZ EX240",
+        "Resolution: FHD (1920 x 1080)",
+        "Display: IPS, 165Hz, 1ms",
+        "Ports: 1x HDMI, 1x DP, 3x USB",
+        "Features: Flicker Free, Low Blue Light"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "56buu78o657uvv263",
+      "name": "Asus TUF Gaming VG249Q3A 24'' Full HD 180Hz IPS Gaming Monitor",
+      "price": 26999,
+      "image": "/products/asus-monitor.jpg",
+      "category": "monitor",
+      "status": "in stock",
+      "description": "Asus TUF Gaming VG249Q3A 24'' Full HD(1920x1080) Fast IPS gaming monitor with 180Hz refresh rate designed for professional gamers and immersive gameplay. For lag-free gameplay, it offers a 1ms (GTG) reaction time, and ASUS Extreme Low Motion Blur (ELMB) technology further reduces ghosting and motion blur. By automatically setting VRR (variable refresh rate), FreeSync Premium offers a fluid, tear-free gaming experience. In order to brighten sceneries without overexposing bright areas, Shadow Boost increases image details in dark areas. Additionally, it offers great colors and contrast because of its 99% sRGB gamut.",
+      "features": [
+        "Model: TUF Gaming VG249Q3A",
+        "Resolution: FHD (1920 x 1080)",
+        "Display: IPS, 180Hz, 1ms (GTG)",
+        "Ports: DisplayPort 1.2 x 1, HDMI(v2.0) x 2, 1 x audio jack",
+        "Features: AMD FreeSync Premium, Low Blue Light, Flicker-free"
+      ],
+      "rating": 5,
+      "reviews": []
+    },
+    {
+      "id": "64uwbu68n6o97b4ewf2",
+      "name": "HP M22f 22\" FHD IPS Monitor",
+      "price": 15000,
+      "image": "/products/hp-monitor.jpg",
+      "category": "monitor",
+      "status": "in stock",
+      "description": "The HP M22f 22\" FHD IPS Monitor is based on IPS technology for 178 degrees ultra-wide viewing angles with 99% sRGB color gamut for color accuracy, and Freesync to keep your eyes up to speed with your imagination. You can increase viewing comfort with Eyesafe technology that doesn't sacrifice color quality. The HP M22f monitor has been designed with sustainability in mind with 85% recycled materials and packaged in recycled materials. You can streamline your setup with its slim profile, innovative cable containment, and seamless design for side-by-side screens. It comes with On-screen controls (Brightness; Exit; Information; Management; Power control; Input control; Menu control; Image; Color) for better user experience. You can customize your display with easy, intuitive HP Display Center software that lets you tailor your settings, partition screens, and even dim the screen. The HP M22f monitor comes with 1 x VGA, 1 x HDMI 1.4 (with HDCP support). It features cable management, cord and wire pass-through located on the display stand reduces cord-clutter, and helps keep your workspace clean and organized. The HP M22f 22\" FHD IPS Monitor has 3 years of warranty.",
+      "features": [
+        "MPN: 2D9J9AA",
+        "Model: M22f",
+        "Resolution: FHD (1920 x 1080)",
+        "Display: IPS, 75Hz, 5ms",
+        "Ports: HDMI, VGA",
+        "Features: Free Sync, Low Blue Light, Anti-glare"
+      ],
+      "rating": 5,
+      "reviews": []
+    }
+  ],
+  "buildCategory":[
+    {
+      "image":"/icon/cpu.png",
+      "name":"CPU/Processor",
+      "link":"cpu",
+      "product":[]
+    },
+    {
+      "image":"/icon/motherboard.png",
+      "name":"Motherboard",
+      "link":"motherboard",
+      "product":[]
+    },
+    {
+      "image":"/icon/ram.png",
+      "name":"RAM",
+      "link":"ram",
+      "product":[]
+    },
+    {
+      "image":"/icon/power-supply.png",
+      "name":"Power Supply",
+      "link":"power-supply",
+      "product":[]
+    },
+    {
+      "image":"/icon/storage.png",
+      "name":"Storage Device",
+      "link":"storage-device",
+      "product":[]
+    },
+    {
+      "image":"/icon/monitor.png",
+      "name":"Monitor",
+      "link":"monitor",
+      "product":[]
+    }
+  ]
+}
